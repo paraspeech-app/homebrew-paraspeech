@@ -1,6 +1,6 @@
 cask "paraspeech" do
   version "1.2.1"
-  sha256 "c974ddf7977c63b8ca24062da6725780b746268651f6ed388e2cac958e29774a"
+  sha256 "c0a22ddc233fda0bf4edefa2848f5724e2b860e8eac9bfa9c9536252d0bfbae0"
 
   url "https://github.com/paraspeech-app/homebrew-paraspeech/releases/download/v#{version}/Paraspeech-#{version}.zip",
       verified: "github.com/paraspeech-app/homebrew-paraspeech/"
